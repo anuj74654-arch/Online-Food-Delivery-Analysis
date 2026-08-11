@@ -15,6 +15,6 @@ This project explored key patterns in online food delivery using a simulated dat
 
 # Future Improvement
 In future versions of this project, the dataset could be made more realistic by introducing time-based trends, customer behavior patterns, or location-based demand. Machine learning models could also be applied for predicting delivery delays or recommending food based on customer preferences, adding more depth to the analysis.
-<img width="11356" height="175" alt="image" src="https://github.com/user-attachments/assets/a6abf2a8-4859-4041-acb5-03de5ae4416a" />
+
 
   
