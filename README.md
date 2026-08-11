@@ -5,7 +5,6 @@
 
 # Technologies Used
 * Python
-* HTML
 * NumPy
 * Pandas
 * matplotlib
