@@ -1,0 +1,9 @@
+Order_Id,Cust_Name,Order_Date,Delivery_Time(min),Food_Items,Restaurant_Name,Delivery_Rating,Food_Rating,Feedback,Price,Payment_Mode,Location
+1001,Anuj Agrawal,8-08-2025,25,Pizza,PizzaZone,4.2,3.3,Average,499,Upi,New York
+1002,Vashu Banjaare,9-08-2025,30,Pizza,PizzaZone,2.4,2.7,Below Average,499,Credit Card,New York
+1003,Aryan Katakwar,8-08-2025,20,Sushi,SushiWorld,4.6,4.8,Perfect,70,Upi,Chicago
+1004,Akriti Soni,11-08-2025,26,Biryani,SpiceLand,3.6,2.5,Worst,100,Debit Card,Boston
+1005,Ayush Gupta,8-08-2025,30,Fried Rice,Asian Express,4.7,4.9,Nice,59,Upi,Seattle
+1006,Ritesh Dansena,9-08-2025,35,Sandwich,FreshhEats,2.5,3.1,Not Bad,69,Credit Card,san Francisco
+1007,Arya Gupta,11-08-2025,25,Sushi,SushiWorld,3.5,4.4,Perfect,70,Cash,Chicago
+1008,Saniya Banjaare,9-08-2025,45,Biryani,SpiceLand,3.9,2.3,Below Average,100,Upi,Boston
